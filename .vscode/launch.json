@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RichestCustomerWealth",
+            "request": "launch",
+            "mainClass": "beginner_guide.richest_customer_wealth.RichestCustomerWealth",
+            "projectName": "leetcode_learn_e71604f7"
+        },
+        {
+            "type": "java",
             "name": "RunningSum1DArray",
             "request": "launch",
             "mainClass": "beginner_guide.running_sum_1D_array.RunningSum1DArray",
