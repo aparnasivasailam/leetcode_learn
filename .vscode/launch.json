@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MiddleLinkedList",
+            "request": "launch",
+            "mainClass": "beginner_guide.middle_linked_list.MiddleLinkedList",
+            "projectName": "leetcode_learn_e71604f7"
+        },
+        {
+            "type": "java",
+            "name": "NumberOfSteps",
+            "request": "launch",
+            "mainClass": "beginner_guide.reduce_steps_zero.NumberOfSteps",
+            "projectName": "leetcode_learn_e71604f7"
+        },
+        {
+            "type": "java",
+            "name": "FizzBuzz",
+            "request": "launch",
+            "mainClass": "beginner_guide.fizz_buzz.FizzBuzz",
+            "projectName": "leetcode_learn_e71604f7"
+        },
+        {
+            "type": "java",
             "name": "RichestCustomerWealth",
             "request": "launch",
             "mainClass": "beginner_guide.richest_customer_wealth.RichestCustomerWealth",
