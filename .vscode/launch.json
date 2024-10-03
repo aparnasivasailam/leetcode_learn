@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RansomNoteUsingMagazine",
+            "request": "launch",
+            "mainClass": "beginner_guide.ransom_note.RansomNoteUsingMagazine",
+            "projectName": "leetcode_learn_e71604f7"
+        },
+        {
+            "type": "java",
             "name": "MiddleLinkedList",
             "request": "launch",
             "mainClass": "beginner_guide.middle_linked_list.MiddleLinkedList",
